@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Knifezs serverbot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "knifezsbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Knifezs.aternos.me",
+    "port": 37992,
     "version": "",
     "try-creative": false
   },
